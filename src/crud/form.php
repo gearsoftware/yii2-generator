@@ -10,6 +10,7 @@
  */
 
 /* @var $this yii\web\View */
+Test
 /* @var $form yii\widgets\ActiveForm */
 /* @var $generator yii\gii\generators\crud\Generator */
 
